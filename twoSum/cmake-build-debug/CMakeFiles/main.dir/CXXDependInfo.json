@@ -1,0 +1,40 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/main.dir/TestModule_implementation.cxx.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "all_my_modules",
+			"relative-directory" : "",
+			"source" : "/home/plushjill/All_Random/GitHub/LeetCodeTasks/twoSum/TestModule_implementation.cxx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/main.dir/TestModule_interface.cxx.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "all_my_modules",
+			"relative-directory" : "",
+			"source" : "/home/plushjill/All_Random/GitHub/LeetCodeTasks/twoSum/TestModule_interface.cxx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"dir-cur-bld" : "/home/plushjill/All_Random/GitHub/LeetCodeTasks/twoSum/cmake-build-debug",
+	"dir-cur-src" : "/home/plushjill/All_Random/GitHub/LeetCodeTasks/twoSum",
+	"dir-top-bld" : "/home/plushjill/All_Random/GitHub/LeetCodeTasks/twoSum/cmake-build-debug",
+	"dir-top-src" : "/home/plushjill/All_Random/GitHub/LeetCodeTasks/twoSum",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/plushjill/All_Random/GitHub/LeetCodeTasks/twoSum/cmake-build-debug/CMakeFiles/main.dir"
+}

@@ -1,0 +1,6 @@
+# ninja log v5
+28	404	1715856109441513517	CMakeFiles/TestModule_implementation.dir/TestModule_implementation.cxx.o	a45e0530753a6105
+1	22	1715852266362269425	CMakeFiles/twoSum.dir/Solution.cpp.o	8d6e2b5a0a1c6b2f
+2	62	1715856485203499155	build.ninja	c552f2e0817185ab
+42	128	1715855605931148157	CMakeFiles/twoSum.dir/main.cpp.o	39751ca4b9e86ed0
+44	404	1715855606203149279	CMakeFiles/twoSum.dir/TestModule_implementation.cxx.o	56d9506efdf5013d
